@@ -5,6 +5,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 episode_data.json
+package-lock.json
 
 # Runtime data
 pids
