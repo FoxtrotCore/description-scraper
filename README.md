@@ -7,4 +7,6 @@ Puts it into the same directory as the script called `episode_data.json`.
 
 ### Usage
 
+`npm install`
+
 `npm start`
