@@ -1,0 +1,20 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "A quick and dirty web scraper for getting CL episode descriptions.",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "dependencies": {
+    "axios": "*",
+    "cheerio": "*"
+  },
+  "author": "Dmitri McGuckin",
+  "license": "MIT"
+}
